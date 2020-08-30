@@ -11,7 +11,8 @@
   <img src="overview.png"/>
 </p>
 
-<h4>Admin will have access to change all the data
-If the cost of the gold or silver changed by the admin,that make changes to the every item 
+<h4>Admin will have access to change all the data</h4>
+<h4>If the cost of the gold or silver changed by the admin,that make changes to the every item 
 </h4>
-[check it out here]: https://sirijewellers.netlify.app/
+
+[Check it out here]: https://sirijewellers.netlify.app/
