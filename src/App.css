@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+
+.heading{
+  text-align: center;
+  background-color:#EAF0F1;
+  height: 80px;
+}
+
+.scrolling-wrapper {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+.card {
+  display: inline-block;
+}
+.scrolling-wrapper {
+  -webkit-overflow-scrolling: touch;
+}
+
+*{
+  padding:0px;
+  margin:0px;
+}
+.spinner{
+  position: absolute;
+  height: 40px;
+  width: 40px;
+  top: 50%;
+  margin-left: -50px;
+  margin-top: -50px;
+  background: url(/link/to/your/image);
+  background-size: 100%;
+}
+.card{
+  margin: 0px;
+  padding:0px
+}
+html,body{
+  margin-bottom: 100px;
+}
+.modal{ display:block; }
