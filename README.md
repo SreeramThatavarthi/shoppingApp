@@ -14,4 +14,4 @@
 <h4>Admin will have access to change all the data
 If the cost of the gold or silver changed by the admin,that make changes to the every item 
 </h4>
-[check it out here]:https://sirijewellers.netlify.app/
+[check it out here]: https://sirijewellers.netlify.app/
