@@ -1,4 +1,4 @@
-# shopping App
+# Shopping App
 
 <h2>Made With React and Firebase</h2>
 
