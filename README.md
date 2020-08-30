@@ -1,4 +1,4 @@
 # shopping App
 
 Made With 
-<img src="react.png"/>
+<img src="react.jpeg"/>
